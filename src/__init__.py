@@ -1,0 +1,1 @@
+"""Mooloolaba wave analysis package."""
